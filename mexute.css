@@ -1,0 +1,166 @@
+
+@font-face {
+    font-family: "pir";
+    src: url(Inter-Regular.ttf);
+}
+
+@font-face {
+    font-family: "meo";
+    src: url(Inter-Bold.ttf);
+}
+
+body{
+    background: #FFFFFF;
+}
+
+
+
+
+.sulpirv{
+    display: flex;
+    justify-content: center;
+
+}
+
+.pirbeli {
+
+    width: 647px;
+    height: 323px;
+
+    margin-top: 2px;
+    margin-bottom: 30px;
+    
+   
+}
+
+.pic2andtext{
+    display: flex;
+    justify-content: center;
+    
+    
+    
+}
+.text{
+    margin-left: 13px;
+}
+
+.img22{
+    width: 171px;
+    height: 222px;
+}
+
+.spani{
+    width: 208px;
+    height: 204px;
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px;
+    color: #000000;
+    font-family: "pir";
+    margin-top: -10px;
+
+}
+
+
+.svh{
+    display: flex;
+    justify-content: center;
+    margin-top: 33px;
+}
+
+.urmom{
+    border: 1px solid #E9E9E9;
+    
+    width: 392px;
+    height: 0px;
+    
+    
+   
+}
+
+.heading2{
+   line-height: 0px; 
+   font-family: "meo";
+   margin-top: -15px;
+  
+}
+
+
+
+.menuandtext{
+    margin-top: 29px;
+
+    display: flex;
+    justify-content: center;
+
+}
+
+.yvelamenu{
+    margin-top: 31px;
+
+}
+
+
+
+.texti{
+    margin-right: 25px;
+    
+    
+}
+
+.img33{
+    width: 208px;
+    height: 322px;
+    
+}
+
+.headingg{
+    margin-top: -7px;
+    line-height: 0px;
+    font-family: "meo";
+    font-size: 15px;
+    
+    }
+
+    h3{
+        font-size: 12px;
+        font-family: "meo";
+        font-weight: 700;
+        line-height: 0px;
+    }
+
+    p{
+        margin-top: 0px;
+        font-weight: 400;
+        font-size: 12px;
+        line-height: 0px;
+        font-family: "pir";
+    }
+
+    .salad{
+        margin-top: 25px;
+    }
+
+    .burger2{
+        margin-top: 25px;
+    }
+
+    .Salad2{
+        margin-top: 25px;
+    }
+
+    .Burger3{
+        margin-top: 25px;
+    }
+
+    .Salad3{
+        margin-top: 25px;
+    }
+
+    .Burger4{
+        margin-top: 25px;
+    }
+
+    .Salad4{
+        margin-top: 25px;
+    }
